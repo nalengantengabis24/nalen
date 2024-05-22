@@ -1,0 +1,1 @@
+print('nalen ganteng banget')
